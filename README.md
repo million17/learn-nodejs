@@ -2,10 +2,10 @@
 Node JS
 
 
-# Tạo file : Toutch file_name.txt
-# Hiện file ẩn : Ctrl + H
-# Remove file : rm file_name.txt
-# NPM : npm update <package-name> Update package new 
+Tạo file : Toutch file_name.txt
+Hiện file ẩn : Ctrl + H
+Remove file : rm file_name.txt
+NPM : npm update <package-name> Update package new 
     - Bình thường : npm install pkg => npm i pkg
     - Cài đặt trên global : npm install --global => npm i -g pkg
     - Xem file pakage.json : cat pakage.js
