@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T07:56:08.620Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.7.3" etag="9d0N8OqYji-qvkgNZd_u" type="github"><diagram id="4NmLZIBllRo9rkTQsevi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-20T08:39:23.774Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="uuraaqmi7PnCR0a5p47Z" version="13.7.3" type="github">
+  <diagram id="4NmLZIBllRo9rkTQsevi" name="Page-1">
+    <mxGraphModel dx="1695" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-1" target="DoB-NNo9R8UuOntgGLnS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-1" value="Javascript basic&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-2" target="DoB-NNo9R8UuOntgGLnS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-2" value="NPM&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-3" target="DoB-NNo9R8UuOntgGLnS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-3" target="DoB-NNo9R8UuOntgGLnS-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-3" value="Node JS&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-6" target="DoB-NNo9R8UuOntgGLnS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-6" value="Web Frameworks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="175" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-9" target="DoB-NNo9R8UuOntgGLnS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-9" value="Express.js&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="730" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-10" target="DoB-NNo9R8UuOntgGLnS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-10" value="Database&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-11" target="DoB-NNo9R8UuOntgGLnS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-11" value="ES6/ES5&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-13" value="MySQL&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="95" y="450" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-15" value="Lean &lt;br&gt;javascirpt basic (variable, function, arr, method)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-41" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-22" value="- Learn basic NPM&amp;nbsp;&lt;br&gt;-Sematic vesionling&lt;br&gt;-Version, author, script,repository&lt;br&gt;- Properties&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="145" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-28" value="- Arrow funtions&lt;br&gt;- Multi line strings&lt;br&gt;-enhanced object literal&lt;br&gt;- Array&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="290" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoB-NNo9R8UuOntgGLnS-33" target="DoB-NNo9R8UuOntgGLnS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-33" value="Node JS Basic&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-35" value="Node JS Basic&lt;br&gt;-Event Emitters&lt;br&gt;- Call back&lt;br&gt;-REST&lt;br&gt;-Module System&lt;br&gt;-Process Object&lt;br&gt;- Buffers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="750" y="280" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DoB-NNo9R8UuOntgGLnS-37" value="- Routing&lt;br&gt;- Writing middleware&lt;br&gt;- Using Express middleware&lt;br&gt;- Overriding the Express&lt;br&gt;- Using Template Engines&lt;br&gt;- Error handling&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="785" y="-140" width="220" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
