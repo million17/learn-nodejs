@@ -14,3 +14,6 @@ Node JS
     - Cài đặt trên global : npm install --global => npm i -g pkg
     - Xem file pakage.json : cat pakage.js
     - Liệt kê các list các pakage đã install : npm ls --depth 0 => trên global npm ls -g --depth 0
+    
+    https://github.com/million17/learn-nodejs/blob/master/roadmap/Roadmap.png
+
