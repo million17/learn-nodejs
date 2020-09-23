@@ -1,0 +1,15 @@
+Phân biệt let var const
+var :
+    - Có thể gán lại và thay đổi mọi lúc  
+    - Có tính hoisting
+let : 
+    - block scope 
+    - cho phép cập nhật lại value chứ không cho phép gán lại như thằng `var`
+const :
+    - cũng có block scope và hoisting
+    - biến kiểu nguyên thủy (primitive) thì không bao giờ khai báo lại hoặc cập nhật value của nó
+    - biến kiểu reference (object , array, function ) có thể  cập nhật giá trị cho nó
+
+CallBack :
+    - Thực hiện các tác vụ bất đồng bộ
+    - Cho những tác vụ như event liteners/ handlers
