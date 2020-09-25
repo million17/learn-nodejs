@@ -1,24 +1,35 @@
-function test1(s) {
-    [...s].forEach(c => 'aeiou'.includes(c) ?
-    console.log(c) : null);
-    [...s].forEach(c => 'aeiou'.includes(c) ?
-    null : console.log(c))
-}
 
  function test2(s) {
-    const vowels = 'aeiou';
-    var consonants = '';
-
-    for (var i = 0 ; i < vowels.length; i++) {
-        if (vowels.includes(s[i])) {
-            console.log(s[i]);
-        }
-        else {
-            consonants += s[i] + '\n';
-        }
-    }
-     console.log(consonants.trim());
+   let c = s.split('');
+   let a = c.sort();
+   for(let i = 0 ; i< a.length ; i++) {
+       console.log(a[i])
+   }
  }
 
-// test1('javascriptloops');
 test2('javascriptloops')
+
+ function test1(s) {
+     let a = 1;
+     for (let i = 1 ; i <=s ; i++) {
+         a *= i;
+     }
+     return a;
+ }
+
+ console.log( test1(4))
+
+ function test3(s) {
+    const vowels = 'aeiou';
+    var result = '';
+
+    for( var i = 0; i < s.length ; i++) {
+        if (vowels.includes(s[i])) {
+            console.log(s[i]);
+        } else {
+            result += s[i] + '\n';
+        }
+    }
+     console.log(result.trim());
+ }
+ test3('javascriptloops');
