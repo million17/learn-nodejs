@@ -59,3 +59,26 @@ class Violet {
 
 const square = new Violet(23,33);
 console.log(square.getArea());
+
+// example inheritance
+console.log('----------Example Inheritance-----------');
+class Retangle {
+    constructor(w,h) {
+        this.w = w;
+        this.h = h;
+    }
+}
+
+Retangle.prototype.area = function() {
+    return this.w * this.h;
+}
+class Square extends Retangle {
+    constructor(s) {
+        super(s);
+        this.w = s;
+        this.h = s;
+    }
+}
+
+const rec = new Retangle(6,4);
+console.log('Rec ', rec.area());
