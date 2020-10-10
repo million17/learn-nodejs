@@ -5,3 +5,9 @@ yarn-error.log
 # vscode + inteliji
 .vscode/
 .idea/
+
+# project
+web-app/.idea
+web-app/node_modules
+web-app/package-lock.json
+web-app/yarn.lock

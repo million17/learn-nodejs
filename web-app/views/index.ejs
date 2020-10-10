@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <%- include('partials/head'); %>
+</head>
+
+<body class="container">
+
+<header>
+    <%- include('partials/header'); %>
+</header>
+
+<main>
+    <div class="jumbotron">
+        <%= title %>
+        <div class="card-columns">
+            <% people.forEach(e => { %>
+                <div class="card">
+                    <img class="card-img-top" src="<%= e.imgSrc%>" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title"><%= e.firstname + ' ' + e.lastname %></h4>
+                        <p class="card-text"><%= e.tagline %></p>
+                        <a class="btn btn-primary" href="/profile?id=<%= e.id %>" role="button">Detail</a>
+                    </div>
+                </div>
+            <% }) %>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <%- include('partials/footer'); %>
+</footer>
+
+
+</body>
+
+</html>
