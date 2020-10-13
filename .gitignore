@@ -6,8 +6,16 @@ yarn-error.log
 .vscode/
 .idea/
 
-# project
+# project web-app
 web-app/.idea
 web-app/node_modules
 web-app/package-lock.json
 web-app/yarn.lock
+
+
+web-app-restful/.idea
+web-app-restful/node_modules
+web-app-restful/package-lock.json
+web-app-restful/yarn.lock
+web-app-restful/.env
+
