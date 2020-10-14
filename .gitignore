@@ -12,10 +12,15 @@ web-app/node_modules
 web-app/package-lock.json
 web-app/yarn.lock
 
-
+# project web-app-restful
 web-app-restful/.idea
 web-app-restful/node_modules
 web-app-restful/package-lock.json
 web-app-restful/yarn.lock
 web-app-restful/.env
+
+# project scawler-clone
+scawler-clone/node_modules
+scawler-clone/yarn-error.log
+scawler-clone/package-lock.json
 
